@@ -1,0 +1,1 @@
+This is a simple tip calculator that runs in python.
